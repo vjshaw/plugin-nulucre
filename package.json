@@ -1,0 +1,17 @@
+{
+  "name": "@elizaos/plugin-nulucre",
+  "version": "1.0.0",
+  "description": "ElizaOS plugin for Nulucre Agents — wallet reputation scoring and DeFi TVL fact verification via x402 micropayments",
+  "main": "src/index.js",
+  "type": "module",
+  "keywords": ["elizaos", "elizaos-plugins", "x402", "wallet", "reputation", "defi", "crypto", "base"],
+  "author": "Nulucre",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vjshaw/plugin-nulucre"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
